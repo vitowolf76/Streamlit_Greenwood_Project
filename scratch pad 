@@ -1,0 +1,75 @@
+
+
+# st.bar_chart(table_columns)
+#
+# st.markdown(
+#     f'<div style="text-align:center"><h1>Appearance</h1></div>',
+#     unsafe_allow_html=True
+#
+# # identify the ordinal column
+# ordinal_column = "Appearance"
+# #
+# # # count the frequency of each value in the ordinal column
+# value_counts = data[ordinal_column].value_counts()
+# #
+# # # choose the ordinal value you're interested in
+# ordinal_value = 'Essential'
+# #
+# # # get the frequency of the ordinal value
+# ordinal_frequency = value_counts[ordinal_value]
+# #
+# # # calculate the percentage of the ordinal value
+# ordinal_percentage = (ordinal_frequency / len(data)) * 100
+# #
+# # # print the result
+# # # print(f"The percentage of {ordinal_value} is: {ordinal_percentage:.2f}%")
+# st.write(ordinal_percentage, ordinal_value)# st.bar_chart(table_columns)
+#
+# st.markdown(
+#     f'<div style="text-align:center"><h1>Appearance</h1></div>',
+#     unsafe_allow_html=True
+#
+# # identify the ordinal column
+# ordinal_column = "Appearance"
+# #
+# # # count the frequency of each value in the ordinal column
+# value_counts = data[ordinal_column].value_counts()
+# #
+# # # choose the ordinal value you're interested in
+# ordinal_value = 'Essential'
+# #
+# # # get the frequency of the ordinal value
+# ordinal_frequency = value_counts[ordinal_value]
+# #
+# # # calculate the percentage of the ordinal value
+# ordinal_percentage = (ordinal_frequency / len(data)) * 100
+# #
+# # # print the result
+# # # print(f"The percentage of {ordinal_value} is: {ordinal_percentage:.2f}%")
+# st.write(ordinal_percentage, ordinal_value)
+
+
+# st.bar_chart(table_columns)
+#
+# st.markdown(
+#     f'<div style="text-align:center"><h1>Appearance</h1></div>',
+#     unsafe_allow_html=True
+#
+# # identify the ordinal column
+# ordinal_column = "Appearance"
+# #
+# # # count the frequency of each value in the ordinal column
+# value_counts = data[ordinal_column].value_counts()
+# #
+# # # choose the ordinal value you're interested in
+# ordinal_value = 'Essential'
+# #
+# # # get the frequency of the ordinal value
+# ordinal_frequency = value_counts[ordinal_value]
+# #
+# # # calculate the percentage of the ordinal value
+# ordinal_percentage = (ordinal_frequency / len(data)) * 100
+# #
+# # # print the result
+# # # print(f"The percentage of {ordinal_value} is: {ordinal_percentage:.2f}%")
+# st.write(ordinal_percentage, ordinal_value)
