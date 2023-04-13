@@ -10,7 +10,7 @@ import pandas as pd
 import altair as alt
 import datetime as dt
 import matplotlib.pyplot as plt
-import plotly.graph_objs as go
+
 
 ALL_DATA_URL = "./slider_bar_alpha.csv"
 
