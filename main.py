@@ -16,7 +16,7 @@ st.markdown(
     f'<div style="text-align:center"><h1>GREENWOOD PROJECT</h1></div>',
     unsafe_allow_html=True)
 st.markdown(
-    f'<div style="text-align:center"><h3>This is a data visualization exploration of the GS120 values N=2006. Use the Age slider and/or Gender toggle to specify population for visualization</h3></div>',
+    f'<div style="text-align:center"><h3><em>This is a data visualization exploration of the GS120 values N=2006. Use the Age slider and/or Gender toggle to specify population for visualization</sem></h3></div>',
     unsafe_allow_html=True)
 st.markdown(
     f'<div style="text-align:center"><h1></h1></div>',
